@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\x534012\\source\\repos\\ATM_Forms\\ATM_Forms\\ATM_Forms.csproj",
+      "projectUniqueName": "C:\\Users\\x534012\\source\\repos\\AtmGithub\\ATM_Forms\\ATM_Forms\\ATM_Forms.csproj",
       "projectName": "ATM_Forms",
-      "projectPath": "C:\\Users\\x534012\\source\\repos\\ATM_Forms\\ATM_Forms\\ATM_Forms.csproj",
+      "projectPath": "C:\\Users\\x534012\\source\\repos\\AtmGithub\\ATM_Forms\\ATM_Forms\\ATM_Forms.csproj",
       "packagesPath": "C:\\Users\\x534012\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\x534012\\source\\repos\\ATM_Forms\\ATM_Forms\\obj\\",
+      "outputPath": "C:\\Users\\x534012\\source\\repos\\AtmGithub\\ATM_Forms\\ATM_Forms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

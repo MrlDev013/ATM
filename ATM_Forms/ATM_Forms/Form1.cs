@@ -46,7 +46,9 @@ namespace ATM_Forms
             }
             if (CheckAccount == true && CheckPassword == true)
             {
-                MessageBox.Show("Welcome!");
+                Form3 form3 = new Form3();
+                form3.Show();
+                this.Hide();
             }
 
         }
